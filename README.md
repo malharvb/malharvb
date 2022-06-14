@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey there, I'm Malhar. I'm currently pursuing my Bachelor in Computer Engineering, Check out my work](https://github.com/malharvb/malharvb/raw/main/about.gif)
 
 <!--
 **malharvb/malharvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
